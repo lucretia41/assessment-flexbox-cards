@@ -12,7 +12,7 @@
   flex-direction: column;
   justify-content: space-around;
   flex-grow: 1;
-  flex-basis: initial;
+  flex-basis: 100px;
   border: 1px solid #CAD0D2;
   border-radius: 4px;
   border: none;
